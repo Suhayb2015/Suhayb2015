@@ -1,4 +1,4 @@
-### Hi there 👋, Suhayb
+### Hi there 👋 Suhayb,
 #### Software Developer
 Hi, I'm Suhayb Dahir, a Computer Systems Technology student
 at Mohawk College specializing in Software Development. With
