@@ -6,7 +6,8 @@ a passion for full-stack development
 
 Skills: JS / REACT / JS / HTML / CSS / C#/ PYHTON / PHP / SQL
 
--  I’m currently on the hunt for a CO-OP position where I can work, learn, and grow my experience in the tech field!
+- 🔭 I’m currently on the hunt for a CO-OP position where I can work, learn, and grow my experience in the tech field! 
+- 🌱 Currently learning Flutter and multi-platform development.
 
 
 
