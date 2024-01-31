@@ -1,10 +1,8 @@
-👋 Hi, I’m Suhayb, 2nd year Software Developer student at Mohawk College.
+Hi, I’m Suhayb Dahir, a Computer Systems Technology student
+at Mohawk College specializing in Software Development. With
+a passion for full-stack development
 
-👀 Passionate about full-stack dev and the latest innovations.
-
-🌱 Currently enhancing my skills in cross-platform development.
-
-💞️ Keen to collaborate on impactful open-source projects.
+Skills: JS / REACT / JS / HTML / CSS / C#/ PYHTON / PHP / SQL
 
 ⚡ Fun fact: Expert at planning vacations that never happen!
 
